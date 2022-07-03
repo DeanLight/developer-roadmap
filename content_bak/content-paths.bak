@@ -1,0 +1,6 @@
+{
+  "home": "/roadmaps/112-ds/content/readme.md",
+  "python":"/roadmaps/112-ds/content",
+  "python:generators":"/roadmaps/112-ds/content/100-python/100-how-do-generators-work.md",
+  "python:numpy":"/roadmaps/112-ds/content/100-python/101-what-is-numpy.md"
+}
