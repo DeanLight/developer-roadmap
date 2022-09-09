@@ -10,6 +10,7 @@
   "title": "Intro to AI",
   "description": "Step by step guide to becoming a modern data scientist in 2022",
   "featuredTitle": "Data Science",
+  "type": "role",
   "featuredDescription": "Step by step guide to becoming a modern data scientist in 2022",
   "author": {
     "name": "Dean Light",
@@ -20,7 +21,7 @@
   "jsonUrl": "/project/ai.json",
   "resourcesPath": "/roadmaps/112-ai/resources.md",
   "pdfUrl": "/pdfs/ai.pdf",
-  "contentPathsFilePath": "/roadmaps/112-ai/content-paths.json",
+  "contentPathsFilePath": "./content-paths.json",
   "id": "ai",
   "metaPath": "/roadmaps/112-ai/meta.json",
   "isUpcoming": false

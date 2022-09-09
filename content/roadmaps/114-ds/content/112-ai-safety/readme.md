@@ -1,1 +1,1 @@
-# ai-safety
+# Ai safety

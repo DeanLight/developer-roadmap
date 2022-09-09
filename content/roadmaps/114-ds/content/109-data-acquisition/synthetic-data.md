@@ -1,1 +1,0 @@
-# data-acquisition:synthetic-data

@@ -1,1 +1,0 @@
-# data-acquisition:self-supervised

@@ -1,1 +1,0 @@
-# deep-theory-fundamentals
