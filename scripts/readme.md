@@ -2,6 +2,7 @@
 
 Here is the list of scripts available:
 
+- [Scripts](#scripts)
 - [Sitemap](#sitemap)
 - [Roadmaps Meta](#roadmaps-meta)
 - [Content Skeleton](#content-skeleton)
